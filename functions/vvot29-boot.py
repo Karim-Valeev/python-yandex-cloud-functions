@@ -9,7 +9,7 @@ from telegram import InputMediaPhoto
 
 ydb_driver: ydb.Driver
 
-START_COMMAND_TEXT = 'Этот бот может присваивать имена безымянным фотографиям.'
+START_COMMAND_TEXT = 'Этот бот может присваивать имена безымянным фотографиям'
 HELP_COMMAND_TEXT = 'Доступные команды: \n/start \n/help \n/getface \n/find {name}'
 
 
